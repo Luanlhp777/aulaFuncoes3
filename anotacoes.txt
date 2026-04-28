@@ -1,0 +1,24 @@
+git init
+git status
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Luanlhp777/aulaFuncoes3.git
+git push -u origin main
+
+*/ Funcao com JS \*
+Reutilização de código.
+POO reutilização de código.(2 módulo). 
+
+Funcao com return
+Funcao sem return
+Funcao com parametro
+Funcao sem parametro
+        Funcao assincrona   (2 Modulo)
+        Funcao de seta      () => {}
+                =>      () =>
+        Promise
+        Callback
+
+Dentro da função é escopo local.
+Fora é escopo global.
